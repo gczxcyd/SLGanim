@@ -246,7 +246,7 @@
       <skillType>attack</skillType>
       <skillClass>ninjutsu</skillClass>
       <rangeType>straight</rangeType>
-      <animID>3</animID>
+      <animID>4</animID>
       <damageFactor>25</damageFactor>
       <hit>1</hit>
       <extraCrit>0</extraCrit>
@@ -319,7 +319,7 @@
       <skillClass>ninjutsu</skillClass>
       <rangeType>other</rangeType>
       <animID>2</animID>
-      <damageFactor>30</damageFactor>
+      <damageFactor>20</damageFactor>
       <hit>1</hit>
       <extraCrit>0</extraCrit>
       <extraPounce>0</extraPounce>
